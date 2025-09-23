@@ -6,4 +6,4 @@ WHERE (Price <= 350) AND (Stock >= 30);
 UPDATE books
 SET Stock=45,
 	Price=420
-WHERE Title='Deep duty';
+WHERE Title='Deep Work';
